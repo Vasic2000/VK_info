@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VK_Info</string>
+    <string name="input_vk_id">Input VK id</string>
+    <string name="search">Search!</string>
+    <string name="result">Result\'ll be here</string>
+    <string name="resText">Button was pressed!</string>
+
+    <string name="error_message">Some problem with connection!</string>
+</resources>

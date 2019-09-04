@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск в VK</string>
+    <string name="input_vk_id">Введите id в VK</string>
+    <string name="search">Найти!</string>
+    <string name="result">Здесь будет результат</string>
+    <string name="resText">Кнопка нажата была!</string>
+
+    <string name="error_message">Ошибка соединения!</string>
+</resources>
