@@ -16,7 +16,7 @@ public class NetworkUtils {
     private static final String PARAM_USER_ID = "user_ids";
     private static final String PARAM_VERSION = "v";
     private static final String PARAM_KEY = "access_token";
-    private static final String VERS = "5.8";
+    private static final String VERS = "5.131";
     private static final String KEY = "206f9089206f9089206f90895f2003a9672206f206f90897d3f9616467caea7261a6752";
 
     public static URL generateURL(String userID) {
